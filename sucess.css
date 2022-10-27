@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+html{
+  width: 50%;
+  height: 100vh;
+  margin: auto;
+}
+body{
+    background-color: #1b1b32;
+  color: grey;  
+}
+a{
+  color: white;
+}
+
+
+

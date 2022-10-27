@@ -1,0 +1,22 @@
+*{
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body{
+  background-color: #1b1b32;
+  color: rgb(122, 122, 122);
+  width: 80%;
+  height: 100vh;
+  margin: auto;
+}
+input{
+  padding: 4px;
+  width: 100%; 
+  margin: 10px;
+}
+button{
+  border-radius: 4px;
+  margin: 3px;
+  width: 50%;
+}
